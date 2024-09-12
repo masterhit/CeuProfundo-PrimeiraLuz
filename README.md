@@ -1,5 +1,6 @@
 # CeuProfundo-PrimeiraLuz
-Introdução à Observação Astronômica. Notas de Aula e Notebooks Jupyter.
+Introdução à Observação Astronômica. Notas de Aula, Notebooks Jupyter
+e scripts do Stellarium.
 
 O curso Primeira Luz é uma atividade oferecida no 
 Museu Interativo de Ciências de São José dos Campos (MIC)
